@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-12-10T10:16:14.878Z</updated>
+  <updated>2023-12-10T10:42:44.703Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/archives/8bfb5ae1.html"/>
     <id>http://example.com/archives/8bfb5ae1.html</id>
     <published>2023-12-10T08:50:07.000Z</published>
-    <updated>2023-12-10T10:16:14.878Z</updated>
+    <updated>2023-12-10T10:42:44.703Z</updated>
     
-    <content type="html"><![CDATA[<p>&emsp;&emsp;今天完成了我的个人博客网站的初始化建设，搭建起来的静态网站已经初具形态，并且包括了一些常用的基本功能，在整个搭建过程中，看了不少文章，但不少文章距今已经有不少的一段时间，有不少过期的用法，导致整个搭建过程中遇到了不少阻塞，因此我觉得有必要分享一篇尽可能通用的、保质期长的文章，来尽可能保证读者在使用本文进行个人博客搭建时所遭受的阻碍更少。</p><p>&emsp;&emsp;同时我仍然感觉到在这基础上，我仍然需要一些额外的能力，因此我后续会对博客的界面和功能做持续地优化，并会将整个过程收获的心得和方法都收录到 <a href="/categories/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E8%AE%BE-%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%E4%B8%AD/">博客建设</a> 这一分类中。</p><span id="more"></span>]]></content>
+    <content type="html"><![CDATA[<p>&emsp;&emsp;今天完成了我的个人博客网站的初始化建设，搭建起来的静态网站已经初具形态，并且包括了一些常用的基本功能，在整个搭建过程中，看了不少文章，但不少文章距今已经有不少的一段时间，有不少过期的用法，导致整个搭建过程中遇到了不少阻塞，因此我觉得有必要分享一篇尽可能通用的、保质期长的文章，来尽可能保证读者在使用本文进行个人博客搭建时所遭受的阻碍更少。</p><p>&emsp;&emsp;同时我仍然感觉到在这基础上，我仍然需要一些额外的能力，因此我后续会对博客的界面和功能做持续地优化，并会将整个过程收获的心得和方法都收录到 <a href="/categories/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E8%AE%BE-%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%E4%B8%AD/">博客建设</a> 这一分类中。</p><span id="more"></span><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>&emsp;&emsp;本文分为两个部分为读者讲述如何搭建个人博客网站，第一部分是</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;今天完成了我的个人博客网站的初始化建设，搭建起来的静态网站已经初具形态，并且包括了一些常用的基本功能，在整个搭建过程中，看了不少文章，但不少文章距今已经有不少的一段时间，有不少过期的用法，导致整个搭建过程中遇到了不少阻塞，因此我觉得有必要分享一篇尽可能通用的、保质期长的文章，来尽可能保证读者在使用本文进行个人博客搭建时所遭受的阻碍更少。&lt;/p&gt;
