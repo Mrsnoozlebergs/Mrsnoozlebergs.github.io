@@ -88,3 +88,19 @@ npm install hexo-deployer-git --save
 ```
 
 安装完成之后运行`hexo deploy`或`hexo d`，会得到类似以下的输出
+![](../uploads/blog-init/hexo_deploy.jpeg)
+
+证明构建产物已经上传到了master上，这时候就可以访问github pages的链接，就可以看到博客内容了。链接和仓库名称一致，即`<repository>.github.io`,以我的博客举例，对应的链接应该为[mrsnoozlebergs.github.io](https://mrsnoozlebergs.github.io)。
+
+### 上传源码
+通过上述操作，我们把产物上传到了github pages仓库的master分支上，咱们访问仓库地址浏览master分支内容，可以看到实际上传到master的并不是整个仓库的内容，而是public（即generate出来的产物）的内容。因此可能有读者需要上传源码到github中。
+![](../uploads//blog-init/hexo_master.jpeg)
+
+我们可以在从当前分支新建一个分支或者直接使用当前分支（main），将该分支上传到github上用于保存源码。
+```bash
+git init
+git add -all
+git commit -m "feat: init source branch"
+git remote add origin git@github.com:{username}/{username}.github.io.git
+git push -u origin main
+```
